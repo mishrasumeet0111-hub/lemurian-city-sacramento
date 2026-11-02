@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sacramento.lemurianstudios.com/sitemap.xml
